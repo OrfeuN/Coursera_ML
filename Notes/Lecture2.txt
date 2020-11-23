@@ -1,0 +1,20 @@
+Supervised learnng:
+    Feed training set to a learnng algorithm, which outputs a function that outputs a hypothesis
+
+    Structuring a ML algorithm is important:
+        design choices of workflow, data set, hypothesis 
+
+    A training dataset has a number of training examples
+    X = Input variable/ feature
+    y = Output or target variable; label
+    (x,y) = 1 training example
+    n = number of features
+
+Linear regression
+    Affine function
+    Parameter and feature vectors
+    cost function or squared error cost function
+    learning rate
+
+Batch/ stochastic gradient descent
+Normal equation

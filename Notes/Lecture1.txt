@@ -1,0 +1,24 @@
+Machine learning is a programme that learns from experience to perform a task "better" with that experience
+    eg: checkers programme
+
+
+Supervised learning:
+    has a label (y)
+    self-driving car
+    depending on features (X1, X2, ...)
+    can be regression (conntinuos) or classification (single or multiple buckets/ categories)
+    predict price of houses based on sq footage (linear regression)
+    support vector machine for infinite features
+
+Unsupervised learning:
+    grouping news
+    marketing classification for clients
+    cocktail problem
+    no label
+
+Deep learning
+    neural networks
+
+Reinforcement learning:
+    training a dog is an analogy. Let the dog do its things: reward when it does well "good dog", punish for "bad" behaviour
+    teaching a helicopter to fly
